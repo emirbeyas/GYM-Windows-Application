@@ -1,0 +1,326 @@
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe.config
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csprojAssemblyReference.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Properties.Resources.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.GenerateResource.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CopyComplete
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.MainForm.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.MainView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeListView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUye.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcuList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcu.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgramList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgramDetayList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeEgzersizList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe.config
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\EnvDTE.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\EnvDTE80.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\stdole.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csprojAssemblyReference.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe.config
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.MainForm.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Properties.Resources.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.UserControls.InfoBox.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.EgzersizListView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersiz.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersizKategori.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersizKategoriList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmKullanıcı.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmKullanıcıYetkileri.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmLogin.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.KullanıcıListView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.MainView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.OdemeViews.FrmOdeme.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.OdemeViews.OdemeListView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ProgramViews.FrmProgramEgzersiz.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ProgramViews.FrmProgramEgzersizList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ReportViews.FrmReport.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUye.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcu.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcuList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgram.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgramList.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeListView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.YedekViews.YedekView.resources
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.GenerateResource.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\RdlCompile.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\RdlCompile.compiled
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CopyComplete
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe.config
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\EnvDTE.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\EnvDTE80.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\stdole.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csprojAssemblyReference.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe.config
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.MainForm.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Properties.Resources.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.UserControls.InfoBox.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.EgzersizListView.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersiz.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersizKategori.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersizKategoriList.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmKullanıcı.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmKullanıcıYetkileri.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmLogin.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.KullanıcıListView.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.MainView.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.OdemeViews.FrmOdeme.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.OdemeViews.OdemeListView.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ProgramViews.FrmProgramEgzersiz.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ProgramViews.FrmProgramEgzersizList.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ReportViews.FrmReport.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUye.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcu.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcuList.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgram.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgramList.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeListView.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.YedekViews.YedekView.resources
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CopyComplete
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe.config
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.exe
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.WinForm.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\FontAwesome.Sharp.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\EnvDTE.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\EnvDTE80.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\SporSalonuApp.Models.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe.config
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.MainForm.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Properties.Resources.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.UserControls.InfoBox.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.EgzersizListView.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersiz.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersizKategori.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.EgzersizViews.FrmEgzersizKategoriList.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmKullanıcı.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmKullanıcıYetkileri.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.FrmLogin.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.KullanıcıViews.KullanıcıListView.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.MainView.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.OdemeViews.FrmOdeme.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.OdemeViews.OdemeListView.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ProgramViews.FrmProgramEgzersiz.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ProgramViews.FrmProgramEgzersizList.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.ReportViews.FrmReport.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUye.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcu.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeOlcuList.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgram.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeViews.FrmUyeProgramList.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.UyeListView.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.Views.YedekViews.YedekView.resources
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.GenerateResource.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CoreCompileInputs.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.CopyComplete
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.exe
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.AssemblyReference.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.WinForm\obj\Debug\SporSalonuApp.WinForm.csproj.SuggestedBindingRedirects.cache

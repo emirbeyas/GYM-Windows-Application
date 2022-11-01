@@ -1,0 +1,23 @@
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csprojAssemblyReference.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csprojAssemblyReference.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.Models\bin\Debug\SporSalonuApp.Models.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csproj.AssemblyReference.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.csproj.CoreCompileInputs.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.Models\obj\Debug\SporSalonuApp.Models.pdb

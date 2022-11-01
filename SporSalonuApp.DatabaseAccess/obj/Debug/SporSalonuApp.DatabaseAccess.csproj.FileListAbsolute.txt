@@ -1,0 +1,36 @@
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CopyComplete
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje\SporSalonuApp\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CopyComplete
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Âdem\Desktop\MühTmm\Güz\VTYS\Proje Yeni Deneme\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.pdb
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CopyComplete
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.dll
+C:\Users\Emir\source\repos\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.DatabaseAccess.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\bin\Debug\SporSalonuApp.Models.pdb
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.AssemblyReference.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.csproj.CopyComplete
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.dll
+D:\Projects\SporSalonuAppYeni\SporSalonuApp.DatabaseAccess\obj\Debug\SporSalonuApp.DatabaseAccess.pdb
